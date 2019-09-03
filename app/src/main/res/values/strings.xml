@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SweatWorks</string>
+    <string name="title_activity_user_detail">UserDetailActivity</string>
+    <string name="saved_users_title">Users saved</string>
+    <string name="api_users">Users from API</string>
+</resources>
